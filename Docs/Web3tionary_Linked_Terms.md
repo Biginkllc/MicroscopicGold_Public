@@ -158,3 +158,61 @@ To maintain consistency:
 ### **4.1 All Web3tionary entries must reference the origin repository when appropriate.**
 
 For example:
+
+### **4.2 Terms should be defined in the Web3tionary *after* their foundation is documented here.**
+
+This prevents semantic drift.
+
+### **4.3 Concept-first, definition-second.**
+
+A term should not appear in Web3tionary until its meaning is stable enough to serve as a cultural definition.
+
+---
+
+## 5. Future Categories for Web3tionary Inspired by MicroscopicGold
+
+As your ecosystem grows, the Web3tionary will likely need new categories:
+
+- **Micro-Value Culture**  
+- **Digital Discovery Terms**  
+- **Identity Roles (e.g., modernminers)**  
+- **Metaphorical Asset Language**  
+- **Fractional Participation Concepts**  
+
+This file will be updated as new categories emerge.
+
+---
+
+## 6. Summary Table
+
+| Term | Status | Source Repo | Should Enter Web3tionary? | Notes |
+|------|--------|--------------|----------------------------|-------|
+| Microscopic Gold | Pending | MicroscopicGold_Public | Yes | Core concept |
+| paxgdrops | Pending | MicroscopicGold_Public | Yes | Micro-distribution metaphor |
+| modernminers | Pending | MicroscopicGold_Public | Yes | Identity/cultural term |
+| digitalpaydirt | Pending | MicroscopicGold_Public | Yes | Discovery metaphor |
+| golddustcoins | Pending | MicroscopicGold_Public | Yes | Emotional micro-value |
+| pennygold | Pending | MicroscopicGold_Public | Yes | Savings metaphor |
+| passthruwallets | Complete | Multiple | Yes | Functional definition |
+| adoptiondrops | Pending | RandomRain | Yes | Cultural/utility |
+| selfmonetize.blockchain | Pending | IFAM ecosystem | Yes | Economic philosophy |
+| speakdomainish | Pending | IFAM ecosystem | Yes | Cultural language |
+| afroingenuity | Pending | IFAM ecosystem | Yes | Cultural and historical value |
+| conspiracize | Complete | IFAM ecosystem | Yes | Concept of questioning |
+| cryptopolicy | Complete | IFAM ecosystem | Yes | Digitized policy concept |
+
+---
+
+## 7. Revision Notes
+
+This document should be updated whenever:
+
+- new terms originate in Microscopic Gold  
+- terms mature and become ready for Web3tionary  
+- categories evolve  
+- clarity or public perception shifts  
+
+It is intended as a **living bridge** between repos.
+
+---
+
