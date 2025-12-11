@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="MicroscopicGold_Hero_v0.1.png
-" alt="Microscopic Gold — Gold reduced to its smallest usable form" width="800">
+  <img src="MicroscopicGold_Hero_v0.1.png" alt="Microscopic Gold — Gold reduced to its smallest usable form" width="800">
 </p>
 
 <p align="center"><em>Gold reduced to its smallest usable form.</em></p>
 
 ---
+
 
 # Microscopic Gold — Public Anchor Repo
 
