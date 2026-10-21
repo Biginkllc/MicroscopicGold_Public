@@ -33,7 +33,13 @@ Instead of waiting to “one day” afford a full bar, gram, or coin, Microscopi
 
 No minimums, no fancy setups, just tiny pieces of a serious asset.
 
----
+## Microscopic Gold in Open Source City
+
+Microscopic Gold is not limited to saving. Tiny amounts of PAXG can also be earned, gifted, distributed, or exchanged.
+
+Within Open Source City, the concept expands from individual ownership into a broader system of voluntary participation — one serious asset divided into many small, meaningful transfers.
+
+![Microscopic Gold — One Asset, Millions of Drops](MicroscopicGold_OneAssetMillionsOfDrops_v1.png) 
 
 ## 🧬 Ecosystem Brands
 
